@@ -9,3 +9,5 @@ In addition to your actual test assembly code, write a short README with:
  - Any instructions used outside the basic required subset (ok to use, but try to submit at least one test program everyone can run)
 
 Submit the test program and README by submitting a pull request to the main course repository. Code should be in `/asmtest/<your-team-name>/` (you may use subfolders if you submit multiple tests).
+
+This is our assembly code for finding the nth fibonacci term. $t0 and $t1 hold the first 2 fibonacci terms. One can find the nth fibonacci term by inputting n into $t2.
